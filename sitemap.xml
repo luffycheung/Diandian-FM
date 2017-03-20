@@ -2,24 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.luffycheung.com/first/</loc>
-    <lastmod>2017-03-20T21:04:42+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.luffycheung.com/about/</loc>
-    <lastmod>2017-03-20T21:03:32+08:00</lastmod>
+    <lastmod>2017-03-21T00:35:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://blog.luffycheung.com/</loc>
-    <lastmod>2017-03-20T21:04:42+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.luffycheung.com/post/</loc>
-    <lastmod>2017-03-20T21:04:42+08:00</lastmod>
+    <lastmod>2017-03-21T00:35:27+08:00</lastmod>
     <priority>0</priority>
   </url>
   
